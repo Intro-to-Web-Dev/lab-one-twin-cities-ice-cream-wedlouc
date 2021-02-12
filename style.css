@@ -315,3 +315,9 @@
 					  background-color: blue;
 				  }
 			  }
+			  #bottom_footer{
+				width: 100%;
+				clear: both;
+				height: 75px;
+				background-color: #474747;
+			}
